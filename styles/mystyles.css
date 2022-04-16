@@ -1,0 +1,121 @@
+/* Marley Flandro - April 12th, 2022 */
+.images1{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: solid black; 
+    height: 300px;
+    margin-bottom: 1rem;
+    
+}
+
+body{
+    background-image: url("../images/blossoms.jpeg");
+    background-size: auto;
+}
+
+.resume1{
+    background-color: #343a40;
+    color: white;
+    border: solid;
+    border-color: thistle;
+    border-radius: 5px;
+}
+
+.images2{
+    float: left;
+    height: 250px;
+    margin-right: 2rem;
+    margin-left: 1rem;
+    border: solid;
+    border-color: black; 
+    
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 1rem;
+  }
+
+.footer1{
+    border: solid;
+    background-color:#212529;
+}
+
+mystyles.css
+
+/*POSITIONING*/
+.lists-text-left {
+    list-style-position: left;
+}
+.lists-text-center {
+    text-align: center;
+}
+.contact-info {
+    content: "Contact Info: ";
+}
+
+.img-right {
+    position:relative;
+    float: right;
+    height: 500px;
+    border-radius:25px;
+    
+}
+.section-heading {
+  text-transform: uppercase;
+}
+.section-heading .section-heading-upper {
+  display: block;
+  font-size: 1rem;
+  font-weight: 800;
+}
+.section-heading .section-heading-lower {
+  display: block;
+  font-size: 3rem;
+  font-weight: 100;
+}
+
+.video-right {
+    width: 25%;
+    height: auto;
+    float: right;
+    margin-right: 350px;
+    display: block;
+    border-radius: 5px;
+
+}
+
+/*FONTS*/
+
+.tableau-font {
+    background-color: darkgrey;
+    font-weight: 300; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 25px;
+}
+
+.tableau-header{
+    border: solid black 3px;
+    background-color: thistle;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.tableau-header2{
+    border: solid black 3px;
+    background-color: thistle;
+    border-radius: 5px;
+    text-align: left;
+    
+}
+
+.small-image{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 50px;
+    
+}
